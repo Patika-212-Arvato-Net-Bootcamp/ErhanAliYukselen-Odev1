@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Order_CLI/1.0.0": {
+        "dependencies": {
+          "UsefulMethods": "1.0.5"
+        },
+        "runtime": {
+          "Order_CLI.dll": {}
+        }
+      },
+      "UsefulMethods/1.0.5": {
+        "runtime": {
+          "lib/netcoreapp3.1/MUsefulMethods.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Order_CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UsefulMethods/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aNUSV5eW/7tNdxjm/AQQJ9zGquvLRdymeRYh+x54Lwwez+2a7SW3IEfWs6vDwq4cgAgN8LVF2dltQuJLazD1Ng==",
+      "path": "usefulmethods/1.0.5",
+      "hashPath": "usefulmethods.1.0.5.nupkg.sha512"
+    }
+  }
+}

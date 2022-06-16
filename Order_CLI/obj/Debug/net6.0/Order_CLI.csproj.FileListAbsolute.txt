@@ -1,0 +1,17 @@
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\bin\Debug\net6.0\Order_CLI.exe
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\bin\Debug\net6.0\Order_CLI.deps.json
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\bin\Debug\net6.0\Order_CLI.runtimeconfig.json
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\bin\Debug\net6.0\Order_CLI.dll
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\bin\Debug\net6.0\Order_CLI.pdb
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\Order_CLI.csproj.AssemblyReference.cache
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\Order_CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\Order_CLI.AssemblyInfoInputs.cache
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\Order_CLI.AssemblyInfo.cs
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\Order_CLI.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\Order_CLI.dll
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\refint\Order_CLI.dll
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\Order_CLI.pdb
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\Order_CLI.genruntimeconfig.cache
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\ref\Order_CLI.dll
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\bin\Debug\net6.0\MUsefulMethods.dll
+C:\Users\Wissen\source\repos\Order_CLI\Order_CLI\obj\Debug\net6.0\Order_CLI.csproj.CopyComplete
